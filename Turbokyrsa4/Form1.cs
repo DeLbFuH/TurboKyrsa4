@@ -18,5 +18,10 @@ namespace Turbokyrsa4
             Render game = new Render();
             pictureBox1.Image = game.RenderMap();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
